@@ -1,0 +1,32 @@
+*{
+    text-align: center; 
+    
+ }
+.heading{
+    font-size: larger;
+    color: black;
+}
+.button{
+    display:inline-block;
+    
+    height: 100px;
+    width: 100px;
+    
+   
+}
+#red{
+   
+    background-color: red;
+}
+#grey{
+    
+    background-color:grey;
+}
+#blue{
+    
+    background-color:blue;
+}
+#yellow{
+    
+    background-color: yellow;
+}
