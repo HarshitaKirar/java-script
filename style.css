@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.calculate{
+width: 150px;
+height: 35px;
+margin-left: 90px;
+margin-top: 25px;
+background-color: #fff;
+padding: 1px 30px;
+border-radius: 8px;
+color: #212121;
+text-decoration: none;
+border: 2px solid #212121;
+
+font-size: 25px;
+}
+.results{
+    height: 100px;
+    width: 100px;
+ 
+
+}
+.evai{
+    font-size: larger;
+}
